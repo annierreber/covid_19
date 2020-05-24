@@ -1,0 +1,1405 @@
+state,sex,age_group,population
+AK,All Sexes,25-34 years,115775
+AK,Female,25-34 years,54561
+AK,Male,25-34 years,61214
+AK,All Sexes,Under 25 years,261043
+AK,Female,Under 25 years,119996
+AK,Male,Under 25 years,141047
+AK,All Sexes,35-44 years,92056
+AK,Female,35-44 years,44028
+AK,Male,35-44 years,48028
+AK,All Sexes,45-54 years,99414
+AK,Female,45-54 years,47495
+AK,Male,45-54 years,51919
+AK,All Sexes,55-64 years,94149
+AK,Female,55-64 years,45255
+AK,Male,55-64 years,48894
+AK,All Sexes,65-74 years,46577
+AK,Female,65-74 years,22581
+AK,Male,65-74 years,23996
+AK,All Sexes,75-84 years,16759
+AK,Female,75-84 years,8658
+AK,Male,75-84 years,8101
+AK,All Sexes,85 years and over,5969
+AK,Female,85 years and over,3872
+AK,Male,85 years and over,2097
+AK,All Sexes,Total,731742
+AK,Female,Total,346446
+AK,Male,Total,385296
+AL,All Sexes,25-34 years,626564
+AL,Female,25-34 years,318401
+AL,Male,25-34 years,308163
+AL,All Sexes,Under 25 years,1543881
+AL,Female,Under 25 years,741311
+AL,Male,Under 25 years,802570
+AL,All Sexes,35-44 years,606216
+AL,Female,35-44 years,310294
+AL,Male,35-44 years,295922
+AL,All Sexes,45-54 years,656639
+AL,Female,45-54 years,337729
+AL,Male,45-54 years,318910
+AL,All Sexes,55-64 years,629595
+AL,Female,55-64 years,329399
+AL,Male,55-64 years,300196
+AL,All Sexes,65-74 years,434510
+AL,Female,65-74 years,234185
+AL,Male,65-74 years,200325
+AL,All Sexes,75-84 years,225663
+AL,Female,75-84 years,131937
+AL,Male,75-84 years,93726
+AL,All Sexes,85 years and over,82221
+AL,Female,85 years and over,55840
+AL,Male,85 years and over,26381
+AL,All Sexes,Total,4805289
+AL,Female,Total,2459096
+AL,Male,Total,2346193
+AR,All Sexes,25-34 years,385316
+AR,Female,25-34 years,192734
+AR,Male,25-34 years,192582
+AR,All Sexes,Under 25 years,973657
+AR,Female,Under 25 years,465523
+AR,Male,Under 25 years,508134
+AR,All Sexes,35-44 years,367023
+AR,Female,35-44 years,184623
+AR,Male,35-44 years,182400
+AR,All Sexes,45-54 years,385891
+AR,Female,45-54 years,195982
+AR,Male,45-54 years,189909
+AR,All Sexes,55-64 years,370374
+AR,Female,55-64 years,192356
+AR,Male,55-64 years,178018
+AR,All Sexes,65-74 years,269411
+AR,Female,65-74 years,143307
+AR,Male,65-74 years,126104
+AR,All Sexes,75-84 years,140847
+AR,Female,75-84 years,79638
+AR,Male,75-84 years,61209
+AR,All Sexes,85 years and over,54729
+AR,Female,85 years and over,36391
+AR,Male,85 years and over,18338
+AR,All Sexes,Total,2947248
+AR,Female,Total,1490554
+AR,Male,Total,1456694
+AZ,All Sexes,25-34 years,899711
+AZ,Female,25-34 years,435946
+AZ,Male,25-34 years,463765
+AZ,All Sexes,Under 25 years,2238909
+AZ,Female,Under 25 years,1066033
+AZ,Male,Under 25 years,1172876
+AZ,All Sexes,35-44 years,835719
+AZ,Female,35-44 years,414008
+AZ,Male,35-44 years,421711
+AZ,All Sexes,45-54 years,840159
+AZ,Female,45-54 years,423687
+AZ,Male,45-54 years,416472
+AZ,All Sexes,55-64 years,794895
+AZ,Female,55-64 years,417638
+AZ,Male,55-64 years,377257
+AZ,All Sexes,65-74 years,620856
+AZ,Female,65-74 years,328326
+AZ,Male,65-74 years,292530
+AZ,All Sexes,75-84 years,326244
+AZ,Female,75-84 years,173952
+AZ,Male,75-84 years,152292
+AZ,All Sexes,85 years and over,123051
+AZ,Female,85 years and over,75848
+AZ,Male,85 years and over,47203
+AZ,All Sexes,Total,6679544
+AZ,Female,Total,3335438
+AZ,Male,Total,3344106
+CA,All Sexes,25-34 years,5701167
+CA,Female,25-34 years,2776078
+CA,Male,25-34 years,2925089
+CA,All Sexes,Under 25 years,12813217
+CA,Female,Under 25 years,6097486
+CA,Male,Under 25 years,6715731
+CA,All Sexes,35-44 years,5159031
+CA,Female,35-44 years,2570936
+CA,Male,35-44 years,2588095
+CA,All Sexes,45-54 years,5215194
+CA,Female,45-54 years,2617987
+CA,Male,45-54 years,2597207
+CA,All Sexes,55-64 years,4502038
+CA,Female,55-64 years,2324247
+CA,Male,55-64 years,2177791
+CA,All Sexes,65-74 years,2822406
+CA,Female,65-74 years,1509555
+CA,Male,65-74 years,1312851
+CA,All Sexes,75-84 years,1475866
+CA,Female,75-84 years,833151
+CA,Male,75-84 years,642715
+CA,All Sexes,85 years and over,678710
+CA,Female,85 years and over,437219
+CA,Male,85 years and over,241491
+CA,All Sexes,Total,38367629
+CA,Female,Total,19166659
+CA,Male,Total,19200970
+CO,All Sexes,25-34 years,798010
+CO,Female,25-34 years,385278
+CO,Male,25-34 years,412732
+CO,All Sexes,Under 25 years,1732814
+CO,Female,Under 25 years,822565
+CO,Male,Under 25 years,910249
+CO,All Sexes,35-44 years,724366
+CO,Female,35-44 years,352301
+CO,Male,35-44 years,372065
+CO,All Sexes,45-54 years,718538
+CO,Female,45-54 years,359942
+CO,Male,45-54 years,358596
+CO,All Sexes,55-64 years,671396
+CO,Female,55-64 years,342996
+CO,Male,55-64 years,328400
+CO,All Sexes,65-74 years,409242
+CO,Female,65-74 years,213138
+CO,Male,65-74 years,196104
+CO,All Sexes,75-84 years,190638
+CO,Female,75-84 years,106270
+CO,Male,75-84 years,84368
+CO,All Sexes,85 years and over,78160
+CO,Female,85 years and over,51038
+CO,Male,85 years and over,27122
+CO,All Sexes,Total,5323164
+CO,Female,Total,2633528
+CO,Male,Total,2689636
+CT,All Sexes,25-34 years,438471
+CT,Female,25-34 years,217681
+CT,Male,25-34 years,220790
+CT,All Sexes,Under 25 years,1096857
+CT,Female,Under 25 years,521121
+CT,Male,Under 25 years,575736
+CT,All Sexes,35-44 years,439606
+CT,Female,35-44 years,224703
+CT,Male,35-44 years,214903
+CT,All Sexes,45-54 years,545977
+CT,Female,45-54 years,280925
+CT,Male,45-54 years,265052
+CT,All Sexes,55-64 years,487052
+CT,Female,55-64 years,251523
+CT,Male,55-64 years,235529
+CT,All Sexes,65-74 years,303959
+CT,Female,65-74 years,162847
+CT,Male,65-74 years,141112
+CT,All Sexes,75-84 years,163137
+CT,Female,75-84 years,94589
+CT,Male,75-84 years,68548
+CT,All Sexes,85 years and over,87927
+CT,Female,85 years and over,59327
+CT,Male,85 years and over,28600
+CT,All Sexes,Total,3562986
+CT,Female,Total,1812716
+CT,Male,Total,1750270
+DE,All Sexes,25-34 years,122685
+DE,Female,25-34 years,61588
+DE,Male,25-34 years,61097
+DE,All Sexes,Under 25 years,286575
+DE,Female,Under 25 years,137922
+DE,Male,Under 25 years,148653
+DE,All Sexes,35-44 years,110467
+DE,Female,35-44 years,56754
+DE,Male,35-44 years,53713
+DE,All Sexes,45-54 years,129801
+DE,Female,45-54 years,67332
+DE,Male,45-54 years,62469
+DE,All Sexes,55-64 years,124129
+DE,Female,55-64 years,65930
+DE,Male,55-64 years,58199
+DE,All Sexes,65-74 years,90854
+DE,Female,65-74 years,48722
+DE,Male,65-74 years,42132
+DE,All Sexes,75-84 years,44977
+DE,Female,75-84 years,25204
+DE,Male,75-84 years,19773
+DE,All Sexes,85 years and over,18002
+DE,Female,85 years and over,11622
+DE,Male,85 years and over,6380
+DE,All Sexes,Total,927490
+DE,Female,Total,475074
+DE,Male,Total,452416
+FL,All Sexes,25-34 years,2532527
+FL,Female,25-34 years,1254912
+FL,Male,25-34 years,1277615
+FL,All Sexes,Under 25 years,5704959
+FL,Female,Under 25 years,2716909
+FL,Male,Under 25 years,2988050
+FL,All Sexes,35-44 years,2434272
+FL,Female,35-44 years,1227496
+FL,Male,35-44 years,1206776
+FL,All Sexes,45-54 years,2744569
+FL,Female,45-54 years,1398318
+FL,Male,45-54 years,1346251
+FL,All Sexes,55-64 years,2584694
+FL,Female,55-64 years,1365908
+FL,Male,55-64 years,1218786
+FL,All Sexes,65-74 years,2084139
+FL,Female,65-74 years,1114272
+FL,Male,65-74 years,969867
+FL,All Sexes,75-84 years,1198775
+FL,Female,75-84 years,656923
+FL,Male,75-84 years,541852
+FL,All Sexes,85 years and over,514711
+FL,Female,85 years and over,322646
+FL,Male,85 years and over,192065
+FL,All Sexes,Total,19798646
+FL,Female,Total,10057384
+FL,Male,Total,9741262
+GA,All Sexes,25-34 years,1378980
+GA,Female,25-34 years,698151
+GA,Male,25-34 years,680829
+GA,All Sexes,Under 25 years,3434438
+GA,Female,Under 25 years,1644319
+GA,Male,Under 25 years,1790119
+GA,All Sexes,35-44 years,1375596
+GA,Female,35-44 years,708864
+GA,Male,35-44 years,666732
+GA,All Sexes,45-54 years,1403866
+GA,Female,45-54 years,720002
+GA,Male,45-54 years,683864
+GA,All Sexes,55-64 years,1184725
+GA,Female,55-64 years,623702
+GA,Male,55-64 years,561023
+GA,All Sexes,65-74 years,765556
+GA,Female,65-74 years,413315
+GA,Male,65-74 years,352241
+GA,All Sexes,75-84 years,354591
+GA,Female,75-84 years,206934
+GA,Male,75-84 years,147657
+GA,All Sexes,85 years and over,126148
+GA,Female,85 years and over,86142
+GA,Male,85 years and over,40006
+GA,All Sexes,Total,10023900
+GA,Female,Total,5101429
+GA,Male,Total,4922471
+HI,All Sexes,25-34 years,203249
+HI,Female,25-34 years,97328
+HI,Male,25-34 years,105921
+HI,All Sexes,Under 25 years,432564
+HI,Female,Under 25 years,201518
+HI,Male,Under 25 years,231046
+HI,All Sexes,35-44 years,176240
+HI,Female,35-44 years,86766
+HI,Male,35-44 years,89474
+HI,All Sexes,45-54 years,182450
+HI,Female,45-54 years,91134
+HI,Male,45-54 years,91316
+HI,All Sexes,55-64 years,183392
+HI,Female,55-64 years,93196
+HI,Male,55-64 years,90196
+HI,All Sexes,65-74 years,126472
+HI,Female,65-74 years,65368
+HI,Male,65-74 years,61104
+HI,All Sexes,75-84 years,63545
+HI,Female,75-84 years,36134
+HI,Male,75-84 years,27411
+HI,All Sexes,85 years and over,37597
+HI,Female,85 years and over,24195
+HI,Male,85 years and over,13402
+HI,All Sexes,Total,1405509
+HI,Female,Total,695639
+HI,Male,Total,709870
+IA,All Sexes,25-34 years,391277
+IA,Female,25-34 years,190976
+IA,Male,25-34 years,200301
+IA,All Sexes,Under 25 years,1023823
+IA,Female,Under 25 years,486297
+IA,Male,Under 25 years,537526
+IA,All Sexes,35-44 years,364624
+IA,Female,35-44 years,179993
+IA,Male,35-44 years,184631
+IA,All Sexes,45-54 years,406148
+IA,Female,45-54 years,202574
+IA,Male,45-54 years,203574
+IA,All Sexes,55-64 years,406010
+IA,Female,55-64 years,204329
+IA,Male,55-64 years,201681
+IA,All Sexes,65-74 years,259860
+IA,Female,65-74 years,135783
+IA,Male,65-74 years,124077
+IA,All Sexes,75-84 years,153198
+IA,Female,75-84 years,87554
+IA,Male,75-84 years,65644
+IA,All Sexes,85 years and over,77723
+IA,Female,85 years and over,52169
+IA,Male,85 years and over,25554
+IA,All Sexes,Total,3082663
+IA,Female,Total,1539675
+IA,Male,Total,1542988
+ID,All Sexes,25-34 years,214278
+ID,Female,25-34 years,105603
+ID,Male,25-34 years,108675
+ID,All Sexes,Under 25 years,576134
+ID,Female,Under 25 years,273917
+ID,Male,Under 25 years,302217
+ID,All Sexes,35-44 years,200434
+ID,Female,35-44 years,99044
+ID,Male,35-44 years,101390
+ID,All Sexes,45-54 years,199784
+ID,Female,45-54 years,100025
+ID,Male,45-54 years,99759
+ID,All Sexes,55-64 years,199764
+ID,Female,55-64 years,101685
+ID,Male,55-64 years,98079
+ID,All Sexes,65-74 years,139140
+ID,Female,65-74 years,70732
+ID,Male,65-74 years,68408
+ID,All Sexes,75-84 years,67595
+ID,Female,75-84 years,36434
+ID,Male,75-84 years,31161
+ID,All Sexes,85 years and over,26611
+ID,Female,85 years and over,16455
+ID,Male,85 years and over,10156
+ID,All Sexes,Total,1623740
+ID,Female,Total,803895
+ID,Male,Total,819845
+IL,All Sexes,25-34 years,1780279
+IL,Female,25-34 years,884049
+IL,Male,25-34 years,896230
+IL,All Sexes,Under 25 years,4145181
+IL,Female,Under 25 years,1985451
+IL,Male,Under 25 years,2159730
+IL,All Sexes,35-44 years,1672366
+IL,Female,35-44 years,838202
+IL,Male,35-44 years,834164
+IL,All Sexes,45-54 years,1768455
+IL,Female,45-54 years,896183
+IL,Male,45-54 years,872272
+IL,All Sexes,55-64 years,1613087
+IL,Female,55-64 years,832752
+IL,Male,55-64 years,780335
+IL,All Sexes,65-74 years,1000237
+IL,Female,65-74 years,537126
+IL,Male,65-74 years,463111
+IL,All Sexes,75-84 years,535327
+IL,Female,75-84 years,311262
+IL,Male,75-84 years,224065
+IL,All Sexes,85 years and over,248533
+IL,Female,85 years and over,167980
+IL,Male,85 years and over,80553
+IL,All Sexes,Total,12763465
+IL,Female,Total,6453005
+IL,Male,Total,6310460
+IN,All Sexes,25-34 years,845708
+IN,Female,25-34 years,421491
+IN,Male,25-34 years,424217
+IN,All Sexes,Under 25 years,2198737
+IN,Female,Under 25 years,1048618
+IN,Male,Under 25 years,1150119
+IN,All Sexes,35-44 years,822044
+IN,Female,35-44 years,410997
+IN,Male,35-44 years,411047
+IN,All Sexes,45-54 years,891285
+IN,Female,45-54 years,449323
+IN,Male,45-54 years,441962
+IN,All Sexes,55-64 years,840327
+IN,Female,55-64 years,431354
+IN,Male,55-64 years,408973
+IN,All Sexes,65-74 years,535846
+IN,Female,65-74 years,285459
+IN,Male,65-74 years,250387
+IN,All Sexes,75-84 years,280246
+IN,Female,75-84 years,162085
+IN,Male,75-84 years,118161
+IN,All Sexes,85 years and over,124231
+IN,Female,85 years and over,83775
+IN,Male,85 years and over,40456
+IN,All Sexes,Total,6538424
+IN,Female,Total,3293102
+IN,Male,Total,3245322
+KS,All Sexes,25-34 years,384327
+KS,Female,25-34 years,188266
+KS,Male,25-34 years,196061
+KS,All Sexes,Under 25 years,998249
+KS,Female,Under 25 years,473341
+KS,Male,Under 25 years,524908
+KS,All Sexes,35-44 years,345603
+KS,Female,35-44 years,170382
+KS,Male,35-44 years,175221
+KS,All Sexes,45-54 years,370189
+KS,Female,45-54 years,185783
+KS,Male,45-54 years,184406
+KS,All Sexes,55-64 years,362849
+KS,Female,55-64 years,184977
+KS,Male,55-64 years,177872
+KS,All Sexes,65-74 years,226565
+KS,Female,65-74 years,118586
+KS,Male,65-74 years,107979
+KS,All Sexes,75-84 years,127315
+KS,Female,75-84 years,72872
+KS,Male,75-84 years,54443
+KS,All Sexes,85 years and over,61647
+KS,Female,85 years and over,40625
+KS,Male,85 years and over,21022
+KS,All Sexes,Total,2876744
+KS,Female,Total,1434832
+KS,Male,Total,1441912
+KY,All Sexes,25-34 years,566828
+KY,Female,25-34 years,281533
+KY,Male,25-34 years,285295
+KY,All Sexes,Under 25 years,1409836
+KY,Female,Under 25 years,669758
+KY,Male,Under 25 years,740078
+KY,All Sexes,35-44 years,560760
+KY,Female,35-44 years,279540
+KY,Male,35-44 years,281220
+KY,All Sexes,45-54 years,611789
+KY,Female,45-54 years,310306
+KY,Male,45-54 years,301483
+KY,All Sexes,55-64 years,577696
+KY,Female,55-64 years,298685
+KY,Male,55-64 years,279011
+KY,All Sexes,65-74 years,384692
+KY,Female,65-74 years,204700
+KY,Male,65-74 years,179992
+KY,All Sexes,75-84 years,192551
+KY,Female,75-84 years,111821
+KY,Male,75-84 years,80730
+KY,All Sexes,85 years and over,75757
+KY,Female,85 years and over,50821
+KY,Male,85 years and over,24936
+KY,All Sexes,Total,4379909
+KY,Female,Total,2207164
+KY,Male,Total,2172745
+LA,All Sexes,25-34 years,666210
+LA,Female,25-34 years,334105
+LA,Male,25-34 years,332105
+LA,All Sexes,Under 25 years,1543934
+LA,Female,Under 25 years,739519
+LA,Male,Under 25 years,804415
+LA,All Sexes,35-44 years,569307
+LA,Female,35-44 years,287689
+LA,Male,35-44 years,281618
+LA,All Sexes,45-54 years,610677
+LA,Female,45-54 years,313491
+LA,Male,45-54 years,297186
+LA,All Sexes,55-64 years,586060
+LA,Female,55-64 years,304787
+LA,Male,55-64 years,281273
+LA,All Sexes,65-74 years,371899
+LA,Female,65-74 years,199706
+LA,Male,65-74 years,172193
+LA,All Sexes,75-84 years,188842
+LA,Female,75-84 years,110387
+LA,Male,75-84 years,78455
+LA,All Sexes,85 years and over,72984
+LA,Female,85 years and over,48545
+LA,Male,85 years and over,24439
+LA,All Sexes,Total,4609913
+LA,Female,Total,2338229
+LA,Male,Total,2271684
+MA,All Sexes,25-34 years,926099
+MA,Female,25-34 years,465504
+MA,Male,25-34 years,460595
+MA,All Sexes,Under 25 years,2038893
+MA,Female,Under 25 years,978418
+MA,Male,Under 25 years,1060475
+MA,All Sexes,35-44 years,838510
+MA,Female,35-44 years,428559
+MA,Male,35-44 years,409951
+MA,All Sexes,45-54 years,984781
+MA,Female,45-54 years,505474
+MA,Male,45-54 years,479307
+MA,All Sexes,55-64 years,883928
+MA,Female,55-64 years,459768
+MA,Male,55-64 years,424160
+MA,All Sexes,65-74 years,562591
+MA,Female,65-74 years,302534
+MA,Male,65-74 years,260057
+MA,All Sexes,75-84 years,299231
+MA,Female,75-84 years,174509
+MA,Male,75-84 years,124722
+MA,All Sexes,85 years and over,154857
+MA,Female,85 years and over,104753
+MA,Male,85 years and over,50104
+MA,All Sexes,Total,6688890
+MA,Female,Total,3419519
+MA,Male,Total,3269371
+MD,All Sexes,25-34 years,820592
+MD,Female,25-34 years,414759
+MD,Male,25-34 years,405833
+MD,All Sexes,Under 25 years,1868715
+MD,Female,Under 25 years,896632
+MD,Male,Under 25 years,972083
+MD,All Sexes,35-44 years,768457
+MD,Female,35-44 years,395507
+MD,Male,35-44 years,372950
+MD,All Sexes,45-54 years,876960
+MD,Female,45-54 years,455843
+MD,Male,45-54 years,421117
+MD,All Sexes,55-64 years,766580
+MD,Female,55-64 years,404309
+MD,Male,55-64 years,362271
+MD,All Sexes,65-74 years,475899
+MD,Female,65-74 years,258177
+MD,Male,65-74 years,217722
+MD,All Sexes,75-84 years,236615
+MD,Female,75-84 years,137766
+MD,Male,75-84 years,98849
+MD,All Sexes,85 years and over,107536
+MD,Female,85 years and over,71627
+MD,Male,85 years and over,35909
+MD,All Sexes,Total,5921354
+MD,Female,Total,3034620
+MD,Male,Total,2886734
+ME,All Sexes,25-34 years,152643
+ME,Female,25-34 years,76810
+ME,Male,25-34 years,75833
+ME,All Sexes,Under 25 years,363834
+ME,Female,Under 25 years,172190
+ME,Male,Under 25 years,191644
+ME,All Sexes,35-44 years,155610
+ME,Female,35-44 years,79103
+ME,Male,35-44 years,76507
+ME,All Sexes,45-54 years,200296
+ME,Female,45-54 years,102102
+ME,Male,45-54 years,98194
+ME,All Sexes,55-64 years,206266
+ME,Female,55-64 years,106445
+ME,Male,55-64 years,99821
+ME,All Sexes,65-74 years,139478
+ME,Female,65-74 years,72195
+ME,Male,65-74 years,67283
+ME,All Sexes,75-84 years,71641
+ME,Female,75-84 years,40514
+ME,Male,75-84 years,31127
+ME,All Sexes,85 years and over,31132
+ME,Female,85 years and over,20197
+ME,Male,85 years and over,10935
+ME,All Sexes,Total,1320900
+ME,Female,Total,669556
+ME,Male,Total,651344
+MI,All Sexes,25-34 years,1207592
+MI,Female,25-34 years,600545
+MI,Male,25-34 years,607047
+MI,All Sexes,Under 25 years,3152264
+MI,Female,Under 25 years,1501651
+MI,Male,Under 25 years,1650613
+MI,All Sexes,35-44 years,1188718
+MI,Female,35-44 years,599541
+MI,Male,35-44 years,589177
+MI,All Sexes,45-54 years,1396551
+MI,Female,45-54 years,707745
+MI,Male,45-54 years,688806
+MI,All Sexes,55-64 years,1362322
+MI,Female,55-64 years,701584
+MI,Male,55-64 years,660738
+MI,All Sexes,65-74 years,870644
+MI,Female,65-74 years,459457
+MI,Male,65-74 years,411187
+MI,All Sexes,75-84 years,452367
+MI,Female,75-84 years,258960
+MI,Male,75-84 years,193407
+MI,All Sexes,85 years and over,204687
+MI,Female,85 years and over,135777
+MI,Male,85 years and over,68910
+MI,All Sexes,Total,9835145
+MI,Female,Total,4965260
+MI,Male,Total,4869885
+MN,All Sexes,25-34 years,745041
+MN,Female,25-34 years,366540
+MN,Male,25-34 years,378501
+MN,All Sexes,Under 25 years,1752750
+MN,Female,Under 25 years,839426
+MN,Male,Under 25 years,913324
+MN,All Sexes,35-44 years,671116
+MN,Female,35-44 years,331455
+MN,Male,35-44 years,339661
+MN,All Sexes,45-54 years,756460
+MN,Female,45-54 years,377922
+MN,Male,45-54 years,378538
+MN,All Sexes,55-64 years,710112
+MN,Female,55-64 years,357886
+MN,Male,55-64 years,352226
+MN,All Sexes,65-74 years,431660
+MN,Female,65-74 years,224538
+MN,Male,65-74 years,207122
+MN,All Sexes,75-84 years,233134
+MN,Female,75-84 years,131914
+MN,Male,75-84 years,101220
+MN,All Sexes,85 years and over,114611
+MN,Female,85 years and over,75046
+MN,Male,85 years and over,39565
+MN,All Sexes,Total,5414884
+MN,Female,Total,2704727
+MN,Male,Total,2710157
+MO,All Sexes,25-34 years,800229
+MO,Female,25-34 years,400138
+MO,Male,25-34 years,400091
+MO,All Sexes,Under 25 years,1942185
+MO,Female,Under 25 years,925969
+MO,Male,Under 25 years,1016216
+MO,All Sexes,35-44 years,731234
+MO,Female,35-44 years,367617
+MO,Male,35-44 years,363617
+MO,All Sexes,45-54 years,820875
+MO,Female,45-54 years,415853
+MO,Male,45-54 years,405022
+MO,All Sexes,55-64 years,791105
+MO,Female,55-64 years,409783
+MO,Male,55-64 years,381322
+MO,All Sexes,65-74 years,524097
+MO,Female,65-74 years,279171
+MO,Male,65-74 years,244926
+MO,All Sexes,75-84 years,284040
+MO,Female,75-84 years,163203
+MO,Male,75-84 years,120837
+MO,All Sexes,85 years and over,121797
+MO,Female,85 years and over,80511
+MO,Male,85 years and over,41286
+MO,All Sexes,Total,6015562
+MO,Female,Total,3042245
+MO,Male,Total,2973317
+MS,All Sexes,25-34 years,389596
+MS,Female,25-34 years,197263
+MS,Male,25-34 years,192333
+MS,All Sexes,Under 25 years,1016151
+MS,Female,Under 25 years,488001
+MS,Male,Under 25 years,528150
+MS,All Sexes,35-44 years,371390
+MS,Female,35-44 years,190564
+MS,Male,35-44 years,180826
+MS,All Sexes,45-54 years,389464
+MS,Female,45-54 years,201451
+MS,Male,45-54 years,188013
+MS,All Sexes,55-64 years,372601
+MS,Female,55-64 years,195365
+MS,Male,55-64 years,177236
+MS,All Sexes,65-74 years,249257
+MS,Female,65-74 years,133676
+MS,Male,65-74 years,115581
+MS,All Sexes,75-84 years,128677
+MS,Female,75-84 years,75290
+MS,Male,75-84 years,53387
+MS,All Sexes,85 years and over,48698
+MS,Female,85 years and over,33955
+MS,Male,85 years and over,14743
+MS,All Sexes,Total,2965834
+MS,Female,Total,1515565
+MS,Male,Total,1450269
+MT,All Sexes,25-34 years,128539
+MT,Female,25-34 years,62405
+MT,Male,25-34 years,66134
+MT,All Sexes,Under 25 years,317532
+MT,Female,Under 25 years,149817
+MT,Male,Under 25 years,167715
+MT,All Sexes,35-44 years,116416
+MT,Female,35-44 years,57131
+MT,Male,35-44 years,59285
+MT,All Sexes,45-54 years,132165
+MT,Female,45-54 years,66383
+MT,Male,45-54 years,65782
+MT,All Sexes,55-64 years,150446
+MT,Female,55-64 years,76208
+MT,Male,55-64 years,74238
+MT,All Sexes,65-74 years,99684
+MT,Female,65-74 years,49573
+MT,Male,65-74 years,50111
+MT,All Sexes,75-84 years,50018
+MT,Female,75-84 years,26766
+MT,Male,75-84 years,23252
+MT,All Sexes,85 years and over,21166
+MT,Female,85 years and over,13492
+MT,Male,85 years and over,7674
+MT,All Sexes,Total,1015966
+MT,Female,Total,501775
+MT,Male,Total,514191
+NC,All Sexes,25-34 years,1294386
+NC,Female,25-34 years,656605
+NC,Male,25-34 years,637781
+NC,All Sexes,Under 25 years,3186096
+NC,Female,Under 25 years,1522630
+NC,Male,Under 25 years,1663466
+NC,All Sexes,35-44 years,1307758
+NC,Female,35-44 years,667714
+NC,Male,35-44 years,640044
+NC,All Sexes,45-54 years,1373899
+NC,Female,45-54 years,704489
+NC,Male,45-54 years,669410
+NC,All Sexes,55-64 years,1249299
+NC,Female,55-64 years,658339
+NC,Male,55-64 years,590960
+NC,All Sexes,65-74 years,864218
+NC,Female,65-74 years,464294
+NC,Male,65-74 years,399924
+NC,All Sexes,75-84 years,430970
+NC,Female,75-84 years,250593
+NC,Male,75-84 years,180377
+NC,All Sexes,85 years and over,164142
+NC,Female,85 years and over,111512
+NC,Male,85 years and over,52630
+NC,All Sexes,Total,9870768
+NC,Female,Total,5036176
+NC,Male,Total,4834592
+ND,All Sexes,25-34 years,107803
+ND,Female,25-34 years,49351
+ND,Male,25-34 years,58452
+ND,All Sexes,Under 25 years,252622
+ND,Female,Under 25 years,117935
+ND,Male,Under 25 years,134687
+ND,All Sexes,35-44 years,82372
+ND,Female,35-44 years,38609
+ND,Male,35-44 years,43763
+ND,All Sexes,45-54 years,90498
+ND,Female,45-54 years,44348
+ND,Male,45-54 years,46150
+ND,All Sexes,55-64 years,92189
+ND,Female,55-64 years,45177
+ND,Male,55-64 years,47012
+ND,All Sexes,65-74 years,54162
+ND,Female,65-74 years,27455
+ND,Male,65-74 years,26707
+ND,All Sexes,75-84 years,33124
+ND,Female,75-84 years,18750
+ND,Male,75-84 years,14374
+ND,All Sexes,85 years and over,17459
+ND,Female,85 years and over,11625
+ND,Male,85 years and over,5834
+ND,All Sexes,Total,730229
+ND,Female,Total,353250
+ND,Male,Total,376979
+NE,All Sexes,25-34 years,252414
+NE,Female,25-34 years,123225
+NE,Male,25-34 years,129189
+NE,All Sexes,Under 25 years,643215
+NE,Female,Under 25 years,306200
+NE,Male,Under 25 years,337015
+NE,All Sexes,35-44 years,225981
+NE,Female,35-44 years,111359
+NE,Male,35-44 years,114622
+NE,All Sexes,45-54 years,239004
+NE,Female,45-54 years,119369
+NE,Male,45-54 years,119635
+NE,All Sexes,55-64 years,234331
+NE,Female,55-64 years,118782
+NE,Male,55-64 years,115549
+NE,All Sexes,65-74 years,146131
+NE,Female,65-74 years,76369
+NE,Male,65-74 years,69762
+NE,All Sexes,75-84 years,84473
+NE,Female,75-84 years,48166
+NE,Male,75-84 years,36307
+NE,All Sexes,85 years and over,40894
+NE,Female,85 years and over,27038
+NE,Male,85 years and over,13856
+NE,All Sexes,Total,1866443
+NE,Female,Total,930508
+NE,Male,Total,935935
+NH,All Sexes,25-34 years,154495
+NH,Female,25-34 years,75602
+NH,Male,25-34 years,78893
+NH,All Sexes,Under 25 years,385885
+NH,Female,Under 25 years,184326
+NH,Male,Under 25 years,201559
+NH,All Sexes,35-44 years,159325
+NH,Female,35-44 years,80177
+NH,Male,35-44 years,79148
+NH,All Sexes,45-54 years,210225
+NH,Female,45-54 years,106251
+NH,Male,45-54 years,103974
+NH,All Sexes,55-64 years,197914
+NH,Female,55-64 years,100230
+NH,Male,55-64 years,97684
+NH,All Sexes,65-74 years,123021
+NH,Female,65-74 years,63493
+NH,Male,65-74 years,59528
+NH,All Sexes,75-84 years,60143
+NH,Female,75-84 years,33836
+NH,Male,75-84 years,26307
+NH,All Sexes,85 years and over,27221
+NH,Female,85 years and over,17807
+NH,Male,85 years and over,9414
+NH,All Sexes,Total,1318229
+NH,Female,Total,661722
+NH,Male,Total,656507
+NJ,All Sexes,25-34 years,1147169
+NJ,Female,25-34 years,568465
+NJ,Male,25-34 years,578704
+NJ,All Sexes,Under 25 years,2746958
+NJ,Female,Under 25 years,1311495
+NJ,Male,Under 25 years,1435463
+NJ,All Sexes,35-44 years,1170011
+NJ,Female,35-44 years,592975
+NJ,Male,35-44 years,577036
+NJ,All Sexes,45-54 years,1332561
+NJ,Female,45-54 years,682888
+NJ,Male,45-54 years,649673
+NJ,All Sexes,55-64 years,1150515
+NJ,Female,55-64 years,598546
+NJ,Male,55-64 years,551969
+NJ,All Sexes,65-74 years,726212
+NJ,Female,65-74 years,394467
+NJ,Male,65-74 years,331745
+NJ,All Sexes,75-84 years,390880
+NJ,Female,75-84 years,228589
+NJ,Male,75-84 years,162291
+NJ,All Sexes,85 years and over,195199
+NJ,Female,85 years and over,131549
+NJ,Male,85 years and over,63650
+NJ,All Sexes,Total,8859505
+NJ,Female,Total,4508974
+NJ,Male,Total,4350531
+NM,All Sexes,25-34 years,276750
+NM,Female,25-34 years,134790
+NM,Male,25-34 years,141960
+NM,All Sexes,Under 25 years,693666
+NM,Female,Under 25 years,329968
+NM,Male,Under 25 years,363698
+NM,All Sexes,35-44 years,244759
+NM,Female,35-44 years,121965
+NM,Male,35-44 years,122794
+NM,All Sexes,45-54 years,264079
+NM,Female,45-54 years,134988
+NM,Male,45-54 years,129091
+NM,All Sexes,55-64 years,270046
+NM,Female,55-64 years,141034
+NM,Male,55-64 years,129012
+NM,All Sexes,65-74 years,186755
+NM,Female,65-74 years,98358
+NM,Male,65-74 years,88397
+NM,All Sexes,75-84 years,95267
+NM,Female,75-84 years,52441
+NM,Male,75-84 years,42826
+NM,All Sexes,85 years and over,36264
+NM,Female,85 years and over,22602
+NM,Male,85 years and over,13662
+NM,All Sexes,Total,2067586
+NM,Female,Total,1036146
+NM,Male,Total,1031440
+NV,All Sexes,25-34 years,407455
+NV,Female,25-34 years,199872
+NV,Male,25-34 years,207583
+NV,All Sexes,Under 25 years,898891
+NV,Female,Under 25 years,429799
+NV,Male,Under 25 years,469092
+NV,All Sexes,35-44 years,383267
+NV,Female,35-44 years,188682
+NV,Male,35-44 years,194585
+NV,All Sexes,45-54 years,384349
+NV,Female,45-54 years,188268
+NV,Male,45-54 years,196081
+NV,All Sexes,55-64 years,346199
+NV,Female,55-64 years,176569
+NV,Male,55-64 years,169630
+NV,All Sexes,65-74 years,249640
+NV,Female,65-74 years,128318
+NV,Male,65-74 years,121322
+NV,All Sexes,75-84 years,113808
+NV,Female,75-84 years,59556
+NV,Male,75-84 years,54252
+NV,All Sexes,85 years and over,37407
+NV,Female,85 years and over,23630
+NV,Male,85 years and over,13777
+NV,All Sexes,Total,2821016
+NV,Female,Total,1394694
+NV,Male,Total,1426322
+NY,All Sexes,25-34 years,2831379
+NY,Female,25-34 years,1423137
+NY,Male,25-34 years,1408242
+NY,All Sexes,Under 25 years,6047095
+NY,Female,Under 25 years,2894735
+NY,Male,Under 25 years,3152360
+NY,All Sexes,35-44 years,2501802
+NY,Female,35-44 years,1275418
+NY,Male,35-44 years,1226384
+NY,All Sexes,45-54 years,2780247
+NY,Female,45-54 years,1429775
+NY,Male,45-54 years,1350472
+NY,All Sexes,55-64 years,2496854
+NY,Female,55-64 years,1305099
+NY,Male,55-64 years,1191755
+NY,All Sexes,65-74 years,1600042
+NY,Female,65-74 years,873155
+NY,Male,65-74 years,726887
+NY,All Sexes,75-84 years,866782
+NY,Female,75-84 years,505529
+NY,Male,75-84 years,361253
+NY,All Sexes,85 years and over,426977
+NY,Female,85 years and over,289200
+NY,Male,85 years and over,137777
+NY,All Sexes,Total,19551178
+NY,Female,Total,9996048
+NY,Male,Total,9555130
+OH,All Sexes,25-34 years,1469248
+OH,Female,25-34 years,732540
+OH,Male,25-34 years,736708
+OH,All Sexes,Under 25 years,3658185
+OH,Female,Under 25 years,1748009
+OH,Male,Under 25 years,1910176
+OH,All Sexes,35-44 years,1406232
+OH,Female,35-44 years,707864
+OH,Male,35-44 years,698368
+OH,All Sexes,45-54 years,1603648
+OH,Female,45-54 years,814557
+OH,Male,45-54 years,789091
+OH,All Sexes,55-64 years,1572581
+OH,Female,55-64 years,810766
+OH,Male,55-64 years,761815
+OH,All Sexes,65-74 years,1004672
+OH,Female,65-74 years,537088
+OH,Male,65-74 years,467584
+OH,All Sexes,75-84 years,540558
+OH,Female,75-84 years,312869
+OH,Male,75-84 years,227689
+OH,All Sexes,85 years and over,251107
+OH,Female,85 years and over,168645
+OH,Male,85 years and over,82462
+OH,All Sexes,Total,11506231
+OH,Female,Total,5832338
+OH,Male,Total,5673893
+OK,All Sexes,25-34 years,533743
+OK,Female,25-34 years,262322
+OK,Male,25-34 years,271421
+OK,All Sexes,Under 25 years,1312109
+OK,Female,Under 25 years,624213
+OK,Male,Under 25 years,687896
+OK,All Sexes,35-44 years,473291
+OK,Female,35-44 years,234975
+OK,Male,35-44 years,238316
+OK,All Sexes,45-54 years,490534
+OK,Female,45-54 years,246726
+OK,Male,45-54 years,243808
+OK,All Sexes,55-64 years,474825
+OK,Female,55-64 years,245329
+OK,Male,55-64 years,229496
+OK,All Sexes,65-74 years,322630
+OK,Female,65-74 years,171600
+OK,Male,65-74 years,151030
+OK,All Sexes,75-84 years,173078
+OK,Female,75-84 years,98166
+OK,Male,75-84 years,74912
+OK,All Sexes,85 years and over,66177
+OK,Female,85 years and over,43061
+OK,Male,85 years and over,23116
+OK,All Sexes,Total,3846387
+OK,Female,Total,1926392
+OK,Male,Total,1919995
+OR,All Sexes,25-34 years,548492
+OR,Female,25-34 years,271217
+OR,Male,25-34 years,277275
+OR,All Sexes,Under 25 years,1199565
+OR,Female,Under 25 years,571966
+OR,Male,Under 25 years,627599
+OR,All Sexes,35-44 years,518150
+OR,Female,35-44 years,255677
+OR,Male,35-44 years,262473
+OR,All Sexes,45-54 years,515058
+OR,Female,45-54 years,259250
+OR,Male,45-54 years,255808
+OR,All Sexes,55-64 years,539512
+OR,Female,55-64 years,279421
+OR,Male,55-64 years,260091
+OR,All Sexes,65-74 years,374410
+OR,Female,65-74 years,195135
+OR,Male,65-74 years,179275
+OR,All Sexes,75-84 years,175646
+OR,Female,75-84 years,96749
+OR,Male,75-84 years,78897
+OR,All Sexes,85 years and over,84518
+OR,Female,85 years and over,54424
+OR,Male,85 years and over,30094
+OR,All Sexes,Total,3955351
+OR,Female,Total,1983839
+OR,Male,Total,1971512
+PA,All Sexes,25-34 years,1634292
+PA,Female,25-34 years,806846
+PA,Male,25-34 years,827446
+PA,All Sexes,Under 25 years,3842294
+PA,Female,Under 25 years,1831883
+PA,Male,Under 25 years,2010411
+PA,All Sexes,35-44 years,1515459
+PA,Female,35-44 years,760642
+PA,Male,35-44 years,754817
+PA,All Sexes,45-54 years,1804510
+PA,Female,45-54 years,916121
+PA,Male,45-54 years,888389
+PA,All Sexes,55-64 years,1762338
+PA,Female,55-64 years,905747
+PA,Male,55-64 years,856591
+PA,All Sexes,65-74 years,1152343
+PA,Female,65-74 years,615457
+PA,Male,65-74 years,536886
+PA,All Sexes,75-84 years,656631
+PA,Female,75-84 years,382251
+PA,Male,75-84 years,274380
+PA,All Sexes,85 years and over,324273
+PA,Female,85 years and over,218151
+PA,Male,85 years and over,106122
+PA,All Sexes,Total,12692140
+PA,Female,Total,6437098
+PA,Male,Total,6255042
+PR,All Sexes,25-34 years,444100
+PR,Female,25-34 years,228671
+PR,Male,25-34 years,215429
+PR,All Sexes,Under 25 years,1097001
+PR,Female,Under 25 years,522367
+PR,Male,Under 25 years,574634
+PR,All Sexes,35-44 years,448616
+PR,Female,35-44 years,234698
+PR,Male,35-44 years,213918
+PR,All Sexes,45-54 years,463546
+PR,Female,45-54 years,247265
+PR,Male,45-54 years,216281
+PR,All Sexes,55-64 years,434591
+PR,Female,55-64 years,236163
+PR,Male,55-64 years,198428
+PR,All Sexes,65-74 years,351317
+PR,Female,65-74 years,192713
+PR,Male,65-74 years,158604
+PR,All Sexes,75-84 years,189519
+PR,Female,75-84 years,107636
+PR,Male,75-84 years,81883
+PR,All Sexes,85 years and over,73396
+PR,Female,85 years and over,46786
+PR,Male,85 years and over,26610
+PR,All Sexes,Total,3502086
+PR,Female,Total,1816299
+PR,Male,Total,1685787
+RI,All Sexes,25-34 years,137781
+RI,Female,25-34 years,68195
+RI,Male,25-34 years,69586
+RI,All Sexes,Under 25 years,320293
+RI,Female,Under 25 years,152890
+RI,Male,Under 25 years,167403
+RI,All Sexes,35-44 years,125831
+RI,Female,35-44 years,63848
+RI,Male,35-44 years,61983
+RI,All Sexes,45-54 years,152284
+RI,Female,45-54 years,78782
+RI,Male,45-54 years,73502
+RI,All Sexes,55-64 years,142295
+RI,Female,55-64 years,74171
+RI,Male,55-64 years,68124
+RI,All Sexes,65-74 years,89611
+RI,Female,65-74 years,47753
+RI,Male,65-74 years,41858
+RI,All Sexes,75-84 years,48107
+RI,Female,75-84 years,27685
+RI,Male,75-84 years,20422
+RI,All Sexes,85 years and over,28799
+RI,Female,85 years and over,20380
+RI,Male,85 years and over,8419
+RI,All Sexes,Total,1045001
+RI,Female,Total,533704
+RI,Male,Total,511297
+SC,All Sexes,25-34 years,625847
+SC,Female,25-34 years,316529
+SC,Male,25-34 years,309318
+SC,All Sexes,Under 25 years,1530365
+SC,Female,Under 25 years,731979
+SC,Male,Under 25 years,798386
+SC,All Sexes,35-44 years,597453
+SC,Female,35-44 years,304445
+SC,Male,35-44 years,293008
+SC,All Sexes,45-54 years,650886
+SC,Female,45-54 years,336717
+SC,Male,45-54 years,314169
+SC,All Sexes,55-64 years,633558
+SC,Female,55-64 years,336760
+SC,Male,55-64 years,296798
+SC,All Sexes,65-74 years,466367
+SC,Female,65-74 years,248729
+SC,Male,65-74 years,217638
+SC,All Sexes,75-84 years,214465
+SC,Female,75-84 years,121806
+SC,Male,75-84 years,92659
+SC,All Sexes,85 years and over,80848
+SC,Female,85 years and over,54486
+SC,Male,85 years and over,26362
+SC,All Sexes,Total,4799789
+SC,Female,Total,2451451
+SC,Male,Total,2348338
+SD,All Sexes,25-34 years,111742
+SD,Female,25-34 years,53706
+SD,Male,25-34 years,58036
+SD,All Sexes,Under 25 years,288384
+SD,Female,Under 25 years,136557
+SD,Male,Under 25 years,151827
+SD,All Sexes,35-44 years,96916
+SD,Female,35-44 years,46986
+SD,Male,35-44 years,49930
+SD,All Sexes,45-54 years,106922
+SD,Female,45-54 years,52973
+SD,Male,45-54 years,53949
+SD,All Sexes,55-64 years,111798
+SD,Female,55-64 years,55861
+SD,Male,55-64 years,55937
+SD,All Sexes,65-74 years,68865
+SD,Female,65-74 years,34851
+SD,Male,65-74 years,34014
+SD,All Sexes,75-84 years,40129
+SD,Female,75-84 years,22533
+SD,Male,75-84 years,17596
+SD,All Sexes,85 years and over,20215
+SD,Female,85 years and over,13370
+SD,Male,85 years and over,6845
+SD,All Sexes,Total,844971
+SD,Female,Total,416837
+SD,Male,Total,428134
+TN,All Sexes,25-34 years,861200
+TN,Female,25-34 years,434840
+TN,Male,25-34 years,426360
+TN,All Sexes,Under 25 years,2073993
+TN,Female,Under 25 years,994900
+TN,Male,Under 25 years,1079093
+TN,All Sexes,35-44 years,840617
+TN,Female,35-44 years,425311
+TN,Male,35-44 years,415306
+TN,All Sexes,45-54 years,897798
+TN,Female,45-54 years,459664
+TN,Male,45-54 years,438134
+TN,All Sexes,55-64 years,843276
+TN,Female,55-64 years,442405
+TN,Male,55-64 years,400871
+TN,All Sexes,65-74 years,584549
+TN,Female,65-74 years,310467
+TN,Male,65-74 years,274082
+TN,All Sexes,75-84 years,292526
+TN,Female,75-84 years,168783
+TN,Male,75-84 years,123743
+TN,All Sexes,85 years and over,107374
+TN,Female,85 years and over,72986
+TN,Male,85 years and over,34388
+TN,All Sexes,Total,6501333
+TN,Female,Total,3309356
+TN,Male,Total,3191977
+TX,All Sexes,25-34 years,3915774
+TX,Female,25-34 years,1931029
+TX,Male,25-34 years,1984745
+TX,All Sexes,Under 25 years,9671401
+TX,Female,Under 25 years,4617951
+TX,Male,Under 25 years,5053450
+TX,All Sexes,35-44 years,3642463
+TX,Female,35-44 years,1825174
+TX,Male,35-44 years,1817289
+TX,All Sexes,45-54 years,3471589
+TX,Female,45-54 years,1750108
+TX,Male,45-54 years,1721481
+TX,All Sexes,55-64 years,2958735
+TX,Female,55-64 years,1526846
+TX,Male,55-64 years,1431889
+TX,All Sexes,65-74 years,1828562
+TX,Female,65-74 years,972904
+TX,Male,65-74 years,855658
+TX,All Sexes,75-84 years,915785
+TX,Female,75-84 years,522243
+TX,Male,75-84 years,393542
+TX,All Sexes,85 years and over,352220
+TX,Female,85 years and over,231109
+TX,Male,85 years and over,121111
+TX,All Sexes,Total,26756529
+TX,Female,Total,13377364
+TX,Male,Total,13379165
+United States,All Sexes,25-34 years,43692784
+United States,Female,25-34 years,21648268
+United States,Male,25-34 years,22044516
+United States,All Sexes,Under 25 years,103518337
+United States,Female,Under 25 years,49384649
+United States,Male,Under 25 years,54133688
+United States,All Sexes,35-44 years,40904236
+United States,Female,35-44 years,20553766
+United States,Male,35-44 years,20350470
+United States,All Sexes,45-54 years,43847153
+United States,Female,45-54 years,22254444
+United States,Male,45-54 years,21592709
+United States,All Sexes,55-64 years,40427364
+United States,Female,55-64 years,20950990
+United States,Male,55-64 years,19476374
+United States,All Sexes,65-74 years,26663945
+United States,Female,65-74 years,14203934
+United States,Male,65-74 years,12460011
+United States,All Sexes,75-84 years,13936056
+United States,Female,75-84 years,7938051
+United States,Male,75-84 years,5998005
+United States,All Sexes,85 years and over,6119697
+United States,Female,85 years and over,4036990
+United States,Male,85 years and over,2082707
+United States,All Sexes,Total,319109572
+United States,Female,Total,160971092
+United States,Male,Total,158138480
+UT,All Sexes,25-34 years,441468
+UT,Female,25-34 years,217182
+UT,Male,25-34 years,224286
+UT,All Sexes,Under 25 years,1217564
+UT,Female,Under 25 years,582129
+UT,Male,Under 25 years,635435
+UT,All Sexes,35-44 years,385777
+UT,Female,35-44 years,189065
+UT,Male,35-44 years,196712
+UT,All Sexes,45-54 years,307996
+UT,Female,45-54 years,153415
+UT,Male,45-54 years,154581
+UT,All Sexes,55-64 years,276520
+UT,Female,55-64 years,140535
+UT,Male,55-64 years,135985
+UT,All Sexes,65-74 years,172376
+UT,Female,65-74 years,90023
+UT,Male,65-74 years,82353
+UT,All Sexes,75-84 years,89384
+UT,Female,75-84 years,49410
+UT,Male,75-84 years,39974
+UT,All Sexes,85 years and over,33582
+UT,Female,85 years and over,19853
+UT,Male,85 years and over,13729
+UT,All Sexes,Total,2924667
+UT,Female,Total,1441612
+UT,Male,Total,1483055
+VA,All Sexes,25-34 years,1154537
+VA,Female,25-34 years,573709
+VA,Male,25-34 years,580828
+VA,All Sexes,Under 25 years,2630923
+VA,Female,Under 25 years,1253378
+VA,Male,Under 25 years,1377545
+VA,All Sexes,35-44 years,1094958
+VA,Female,35-44 years,551445
+VA,Male,35-44 years,543513
+VA,All Sexes,45-54 years,1183551
+VA,Female,45-54 years,603321
+VA,Male,45-54 years,580230
+VA,All Sexes,55-64 years,1043147
+VA,Female,55-64 years,542505
+VA,Male,55-64 years,500642
+VA,All Sexes,65-74 years,677364
+VA,Female,65-74 years,361017
+VA,Male,65-74 years,316347
+VA,All Sexes,75-84 years,329960
+VA,Female,75-84 years,187923
+VA,Male,75-84 years,142037
+VA,All Sexes,85 years and over,137493
+VA,Female,85 years and over,92352
+VA,Male,85 years and over,45141
+VA,All Sexes,Total,8251933
+VA,Female,Total,4165650
+VA,Male,Total,4086283
+VT,All Sexes,25-34 years,71749
+VT,Female,25-34 years,35680
+VT,Male,25-34 years,36069
+VT,All Sexes,Under 25 years,184218
+VT,Female,Under 25 years,87004
+VT,Male,Under 25 years,97214
+VT,All Sexes,35-44 years,71959
+VT,Female,35-44 years,36365
+VT,Male,35-44 years,35594
+VT,All Sexes,45-54 years,91643
+VT,Female,45-54 years,46826
+VT,Male,45-54 years,44817
+VT,All Sexes,55-64 years,95760
+VT,Female,55-64 years,49026
+VT,Male,55-64 years,46734
+VT,All Sexes,65-74 years,62328
+VT,Female,65-74 years,31987
+VT,Male,65-74 years,30341
+VT,All Sexes,75-84 years,30145
+VT,Female,75-84 years,17132
+VT,Male,75-84 years,13013
+VT,All Sexes,85 years and over,13720
+VT,Female,85 years and over,8791
+VT,Male,85 years and over,4929
+VT,All Sexes,Total,621522
+VT,Female,Total,312811
+VT,Male,Total,308711
+WA,All Sexes,25-34 years,1020046
+WA,Female,25-34 years,498420
+WA,Male,25-34 years,521626
+WA,All Sexes,Under 25 years,2221217
+WA,Female,Under 25 years,1055108
+WA,Male,Under 25 years,1166109
+WA,All Sexes,35-44 years,923126
+WA,Female,35-44 years,455258
+WA,Male,35-44 years,467868
+WA,All Sexes,45-54 years,952858
+WA,Female,45-54 years,475761
+WA,Male,45-54 years,477097
+WA,All Sexes,55-64 years,915352
+WA,Female,55-64 years,469316
+WA,Male,55-64 years,446036
+WA,All Sexes,65-74 years,590229
+WA,Female,65-74 years,307316
+WA,Male,65-74 years,282913
+WA,All Sexes,75-84 years,276831
+WA,Female,75-84 years,153466
+WA,Male,75-84 years,123365
+WA,All Sexes,85 years and over,125782
+WA,Female,85 years and over,81365
+WA,Male,85 years and over,44417
+WA,All Sexes,Total,7025441
+WA,Female,Total,3496010
+WA,Male,Total,3529431
+WI,All Sexes,25-34 years,728926
+WI,Female,25-34 years,357360
+WI,Male,25-34 years,371566
+WI,All Sexes,Under 25 years,1822587
+WI,Female,Under 25 years,870498
+WI,Male,Under 25 years,952089
+WI,All Sexes,35-44 years,692081
+WI,Female,35-44 years,342076
+WI,Male,35-44 years,350005
+WI,All Sexes,45-54 years,815403
+WI,Female,45-54 years,408383
+WI,Male,45-54 years,407020
+WI,All Sexes,55-64 years,779622
+WI,Female,55-64 years,392424
+WI,Male,55-64 years,387198
+WI,All Sexes,65-74 years,484655
+WI,Female,65-74 years,251372
+WI,Male,65-74 years,233283
+WI,All Sexes,75-84 years,264148
+WI,Female,75-84 years,148990
+WI,Male,75-84 years,115158
+WI,All Sexes,85 years and over,126417
+WI,Female,85 years and over,83681
+WI,Male,85 years and over,42736
+WI,All Sexes,Total,5713839
+WI,Female,Total,2854784
+WI,Male,Total,2859055
+WV,All Sexes,25-34 years,218633
+WV,Female,25-34 years,107208
+WV,Male,25-34 years,111425
+WV,All Sexes,Under 25 years,535277
+WV,Female,Under 25 years,253820
+WV,Male,Under 25 years,281457
+WV,All Sexes,35-44 years,228148
+WV,Female,35-44 years,112911
+WV,Male,35-44 years,115237
+WV,All Sexes,45-54 years,252328
+WV,Female,45-54 years,127049
+WV,Male,45-54 years,125279
+WV,All Sexes,55-64 years,269885
+WV,Female,55-64 years,138107
+WV,Male,55-64 years,131778
+WV,All Sexes,65-74 years,190104
+WV,Female,65-74 years,98643
+WV,Male,65-74 years,91461
+WV,All Sexes,75-84 years,98631
+WV,Female,75-84 years,55728
+WV,Male,75-84 years,42903
+WV,All Sexes,85 years and over,39389
+WV,Female,85 years and over,26659
+WV,Male,85 years and over,12730
+WV,All Sexes,Total,1832395
+WV,Female,Total,920125
+WV,Male,Total,912270
+WY,All Sexes,25-34 years,81662
+WY,Female,25-34 years,39122
+WY,Male,25-34 years,42540
+WY,All Sexes,Under 25 years,191401
+WY,Female,Under 25 years,89201
+WY,Male,Under 25 years,102200
+WY,All Sexes,35-44 years,70703
+WY,Female,35-44 years,34030
+WY,Male,35-44 years,36673
+WY,All Sexes,45-54 years,73360
+WY,Female,45-54 years,36159
+WY,Male,45-54 years,37201
+WY,All Sexes,55-64 years,80630
+WY,Female,55-64 years,39765
+WY,Male,55-64 years,40865
+WY,All Sexes,65-74 years,47851
+WY,Female,65-74 years,23941
+WY,Male,65-74 years,23910
+WY,All Sexes,75-84 years,23227
+WY,Female,75-84 years,12494
+WY,Male,75-84 years,10733
+WY,All Sexes,85 years and over,9629
+WY,Female,85 years and over,6060
+WY,Male,85 years and over,3569
+WY,All Sexes,Total,578463
+WY,Female,Total,280772
+WY,Male,Total,297691
